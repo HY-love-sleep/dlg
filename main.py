@@ -3,6 +3,8 @@ import argparse
 import numpy as np
 from pprint import pprint
 
+import visualization_utils
+
 from PIL import Image
 import matplotlib.pyplot as plt
 
